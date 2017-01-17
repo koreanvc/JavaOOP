@@ -23,7 +23,7 @@ public class Main {
 		for(TerranInterface tmp : unit){
 			tmp.attack();
 		}		
-		
+		System.out.println("수정사항");
 	}
 
 }
